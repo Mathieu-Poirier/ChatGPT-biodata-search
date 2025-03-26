@@ -1,13 +1,12 @@
 # ChatGPT-biodata-search
 This is for ChatGPT 4o task scheduler
 
-## Up-coming tasks
+## Tasks
 - Give a presentation for a case study @ University Thursday
 - Study for finals
 - Show university proof
-
-## Start-up tasks
 - Create delete functionality
+- Add testing
 
 ## Exercise
 - Currently trying to train arms and incline bench also just getting back to the gym
