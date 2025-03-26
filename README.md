@@ -1,10 +1,6 @@
 # ChatGPT-biodata-search
 This is for ChatGPT 4o task scheduler
 
-## Biodata
-Height: 5' 10"
-Weight: 235
-
 ## Up-coming tasks
 - Give a presentation for a case study @ University Thursday
 - Study for finals
